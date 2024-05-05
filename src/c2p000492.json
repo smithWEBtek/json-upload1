@@ -1,0 +1,46 @@
+{
+    "problem": [
+        {
+            "layout": "multipleChoiceLayout3",
+            "pointValue": 100,
+            "stimulus": {
+                "art": {
+                    "image": "images/es_US/sz/block16/f445283d9e2d6fc452103b42dddfe2d2.png",
+                    "altText": "Una gráfica de cuatro cuadrantes. El eje horizontal está rotulado como x y el eje vertical como y. Las líneas de cuadrícula en el eje x están rotuladas cada número entero de 4 negativo a 4 positivo. Las líneas de cuadrícula en el eje y están rotuladas cada número entero de 4 negativo a 4 positivo. Hay tres puntos marcados. El primer punto está en el tercer cuadrante en 25 negativo coma 25 negativo. Un segmento de recta se extiende verticalmente desde el primer punto hasta el segundo punto. El segundo punto está en el segundo cuadrante en 25 negativo coma 35. Un segmento de recta se extiende horizontalmente desde el segundo punto hasta el tercer punto. El tercer punto está en el primer cuadrante en 15 coma 35. ",
+                    "width": 280,
+                    "height": 330
+                }
+            },
+            "id": 492,
+            "foil": [
+                {
+                    "correct": "false",
+                    "id": "A",
+                    "text": "<math><p><span>(−25, 15)</span></p></math>"
+                },
+                {
+                    "correct": "false",
+                    "id": "B",
+                    "text": "<math><p><span>(−15, −15)</span></p></math>"
+                },
+                {
+                    "correct": "true",
+                    "id": "C",
+                    "text": "<math><p><span>(15, −25)</span></p></math>"
+                },
+                {
+                    "correct": "false",
+                    "id": "D",
+                    "text": "<math><p><span>(25, −15)</span></p></math>"
+                }
+            ],
+            "type": "MultipleChoiceTemplate",
+            "stem": {
+                "text": "<math><p><span>Se han marcado tres puntos en el plano de coordenadas.</span></p><p><span>¿Cuáles son las coordenadas del punto que completa el rectángulo?</span></p></math>",
+                "audio": {
+                    "audiofile": "audio/es_US/sz/block16/7dbd9b6bb6501eb905b8ae9124cf572c.mp3"
+                }
+            }
+        }
+    ]
+}
